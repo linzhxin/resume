@@ -1,2 +1,152 @@
-# resume
-portfolio about my experience job website deploy
+[![Gmail](https://img.shields.io/badge/Gmail-vereleen.geo%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vereleen.geo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kathlen--novani-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathlen-novani?)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/62811112741)
+[![Location](https://img.shields.io/badge/Location-Panongan%2C%20Tangerang%2015710%2C%20Indonesia-blue?logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Panongan,+Tangerang+15710,+Indonesia)
+</nav>
+    </header>
+    <main>
+        <section>
+            <h2>Professional Summary</h2>
+            <p>Creative and dynamic professional with 10+ years in talent management, livestream hosting, digital product design, sales, and HR support. Skilled in project coordination, UI/UX design, and digital content development—currently active as a freelance UI/UX designer, English tutor, and game developer. Known for adaptability, innovative thinking, and versatility in both remote and on-site roles.</p>
+        </section>
+        <section>
+            <h2>Professional Experience</h2>
+            <ul class="timeline">
+                <li>
+                    <strong>Freelance UI/UX Website Designer</strong> <span>2023 – Present</span>
+                    <ul>
+                        <li>Designed modern, responsive website interfaces using Figma.</li>
+                        <li>Collaborated with clients remotely via Telegram and FastWork.</li>
+                        <li>Implemented front-end prototypes in Laravel with GitHub version control.</li>
+                        <li>Created user flows, wireframes, & visual assets for various industries.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Freelance English Teacher (Private)</strong> <span>Current</span>
+                    <ul>
+                        <li>Designed lesson plans tailored to student goals.</li>
+                        <li>Taught conversational & business English to all ages.</li>
+                        <li>Provided interactive, flexible, engaging sessions.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Freelance IT Gaming Developer</strong> <span>Current</span>
+                    <ul>
+                        <li>Designed & tested mini-game concepts.</li>
+                        <li>Contributed creative development from concept to prototype.</li>
+                        <li>Provided feedback on gameplay mechanics & UX.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Freelance Digital Sticker Designer – Sticker.ly</strong> <span>Current</span>
+                    <ul>
+                        <li>Created & published sticker packs for global audiences.</li>
+                        <li>Researched trends, managed releases on Play Store & App Store.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>NimoTV – Leader Management, Host Talent (CA Agency)</strong> <span>2014 – 2016</span>
+                    <ul>
+                        <li>Managed & mentored livestream hosts.</li>
+                        <li>Oversaw recruitment, training, scheduling.</li>
+                        <li>Coordinated events & engagement campaigns.</li>
+                        <li>Developed strategies to improve retention & monetization.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Event SPG Booth – Indofood Sukses Makmur</strong> <span>Nov-Dec 2016</span>
+                    <ul>
+                        <li>Brand representation at high-traffic events.</li>
+                        <li>Customer interaction, live demos, sales reporting.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>TikTok Host Livestreaming – Galaxy Management (China Agency)</strong> <span>2017 – Feb 2018</span>
+                    <ul>
+                        <li>Hosted interactive livestreams for global audiences.</li>
+                        <li>Built community & increased engagement.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Sales Booth – Kini CheeseTea</strong> <span>Mar-Aug 2018</span>
+                    <ul>
+                        <li>Managed booth operations, upselling, merchandising.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Personal Assistant – China Industry, J&T Agency (TikTok Talent Management)</strong> <span>Jan-May 2019</span>
+                    <ul>
+                        <li>Coordinated daily schedules for managers.</li>
+                        <li>Liaison between management & host talents.</li>
+                        <li>Managed confidential documents & recruitment.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>PLUSFACTOR – HR Consultant & Family Organizer Industry</strong> <span>Apr 2019 – Dec 2022</span>
+                    <ul>
+                        <li>Managed HR documentation, onboarding, event coordination.</li>
+                        <li>Supported family organizing & client services.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <p><strong>Windsor Homeschooling</strong> – Social Sciences, 2009–2012</p>
+        </section>
+        <section>
+            <h2>Key Skills & Tools</h2>
+            <ul class="skills">
+                <li><strong>Talent & Host Management:</strong> Recruiting, mentoring, KPI setting, creative engagement strategies.</li>
+                <li><strong>UI/UX Design:</strong> Figma, Laravel, HTML/CSS/JS, wireframes, user flows, responsive web layouts.</li>
+                <li><strong>Game Development:</strong> Unity C#, HTML5 Canvas, gameplay balancing, A/B testing.</li>
+                <li><strong>HR Administration:</strong> Personnel files, onboarding, office management.</li>
+                <li><strong>Livestream Content Creation:</strong> Hosting, content scripting, reward systems.</li>
+                <li><strong>Sales & Customer Engagement:</strong> Upselling, repeat customer strategies.</li>
+                <li><strong>English Tutoring:</strong> Conversational & business English, scenario-based learning.</li>
+                <li><strong>Digital Illustration & Sticker Design:</strong> Sticker.ly.</li>
+                <li><strong>Remote Collaboration:</strong> GitHub, Telegram, Google Workspace.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Sample Code</h2>
+            <pre><code class="language-html">&lt;!-- Laravel Blade UI Component --&gt;
+&lt;div class="product-card"&gt;
+    &lt;img src="{{ $product->image }}" alt="{{ $product->name }}"&gt;
+    &lt;h3&gt;{{ $product->name }}&lt;/h3&gt;
+    &lt;p&gt;{{ Str::limit($product->description, 100) }}&lt;/p&gt;
+    &lt;button class="btn-buy"&gt;Buy Now&lt;/button&gt;
+&lt;/div&gt;
+</code></pre>
+            <pre><code class="language-csharp">// Unity C# - Player Movement Script
+using UnityEngine;
+public class PlayerController : MonoBehaviour {
+    public float speed = 5f;
+    void Update() {
+        float moveX = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
+        float moveY = Input.GetAxis("Vertical") * speed * Time.deltaTime;
+        transform.Translate(moveX, moveY, 0);
+    }
+}
+</code></pre>
+            <pre><code class="language-js">// HTML5 Canvas - Click to Score
+let score = 0;
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+function drawScore() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.font = '20px Arial';
+    ctx.fillText('Score: ' + score, 10, 30);
+}
+canvas.addEventListener('click', () => {
+    score++;
+    drawScore();
+});
+drawScore();
+</code></pre>
+            <canvas id="gameCanvas" width="300" height="60" style="border:1px solid #ccc;margin-top:0.5em;"></canvas>
+        </section>
+    </main>
+    <footer>
+</body>
+</html>
