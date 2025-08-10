@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/Gmail-vereleen.geo%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vereleen.geo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-xavierejgeorgia%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vereleen.geo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kathlen--xavier-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathleen-xavier?)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/62811112741)
 [![Location](https://img.shields.io/badge/Location-Panongan%2C%20Tangerang%2015710%2C%20Indonesia-blue?logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Panongan,+Tangerang+15710,+Indonesia)
