@@ -7,7 +7,7 @@
     <main>
         <section>
             <h2>Professional Summary</h2>
-            <p>Creative and dynamic professional with 10+ years in talent management, livestream hosting, digital product design, sales, and HR support. Skilled in project coordination, UI/UX design, and digital content development—currently active as a freelance UI/UX designer, English tutor, and game developer. Known for adaptability, innovative thinking, and versatility in both remote and on-site roles.</p>
+            <p>Creative and dynamic professional with 10+ years in talent management, livestream hosting, digital product design, sales, and HR support. Skilled in project coordination, UI/UX design, and digital content development currently active as a freelance UI/UX designer, English tutor, and game developer. Known for adaptability, innovative thinking, and versatility in both remote and on-site roles.</p>
         </section>
         <section>
             <h2>Professional Experience</h2>
